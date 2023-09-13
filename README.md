@@ -1,5 +1,12 @@
 <h1> TEAM  </h1>
-> Emma Shen [Scrum Master], Luna Iwazaki [Frontend], Aliya Tang [Backend], Raunak Mondal [Backend], Ekam Kaire [Dev-ops] 
+
+NAME | ROLE
+--- | ---
+Emma Shen | [Scrum Master]
+Luna Iwazaki | [Frontend]
+Aliya Tang | [Backend]
+Raunak Mondal | [Backend]
+Ekam Kaire | [Dev-ops] 
 
 ------------------------------------------------------------------
 
